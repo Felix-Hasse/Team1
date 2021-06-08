@@ -1,6 +1,6 @@
-#Überschrift 
+<h1>Überschrift</h1>
 
-##Überschrift2
+<h2>Überschrift2</h2>
 
 1. eins
 2. zwei
